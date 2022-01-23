@@ -18,3 +18,7 @@ You can view WorkAround Explorer here: https://jhessicafaus.github.io/workaround
 
 This project is a practice for a Codecademy/Pro class, 
 JavaScript Syntax, Part III: ES Modules.
+
+I worked mainly in the code for the ES modules and in imports/exports. I also changed some HTML and CSS.
+
+All data is fictitious.
