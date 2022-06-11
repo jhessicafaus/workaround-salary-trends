@@ -21,9 +21,8 @@ html{
   section{
     width: 100%;
     border: 1px solid white;
-    padding: 20px;
+    padding: 12px;
     border-radius: 25px;
-    margin: auto 10px;
   }
   
   h3{
