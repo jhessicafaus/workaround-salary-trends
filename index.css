@@ -52,4 +52,5 @@ html{
   input{
     background-color: rgb(18, 24, 42);
     border-color: white;
+    margin: 20px;
   }
