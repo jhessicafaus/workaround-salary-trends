@@ -1,6 +1,6 @@
 # WorKAround Salary Trends
 
-For this Codecademy practice, the task was assisting WorkAround, a fictitious company that provides data on salary trends in the tech industry, to create a new application to make their data viewable. 
+The task was assisting WorkAround, a fictitious company that provides data on salary trends in the tech industry, to create a new application to make their data viewable. 
 Importing / exporting JavaScript ES modules are used to accomplish this.
 
 ## Objective
